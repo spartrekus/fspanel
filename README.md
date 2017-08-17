@@ -1,0 +1,2 @@
+# fspanel
+fspanel standard
